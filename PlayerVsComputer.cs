@@ -51,7 +51,7 @@ namespace BattleShip_Midterm
 
             try
             {
-                if (Grid[x, y].Equals('s'))
+                if (Grid[x, y].Equals(' '))
                 {
                     Grid[x, y] = 'H';
                     Console.Clear();
@@ -78,7 +78,7 @@ namespace BattleShip_Midterm
         }
         public void SetGrid(int q, int w)
         {
-            Grid[q, w] = 's';
+            Grid[q, w] = ' ';
         }
         public void Scenairo1()
         {
