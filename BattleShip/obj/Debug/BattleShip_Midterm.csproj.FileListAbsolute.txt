@@ -1,0 +1,6 @@
+C:\Users\Cory Gerard\Desktop\C# Battleship\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+C:\Users\Cory Gerard\Desktop\C# Battleship\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\Cory Gerard\Desktop\C# Battleship\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\Cory Gerard\Desktop\C# Battleship\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+C:\Users\Cory Gerard\Desktop\C# Battleship\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
+C:\Users\Cory Gerard\Desktop\C# Battleship\BattleShip\BattleShip\obj\Debug\BattleShip_Midterm.csprojResolveAssemblyReference.cache
